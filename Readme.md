@@ -10,3 +10,4 @@ HTML, CSS, JavaScript
 
 Deployment
 To deploy this project run
+https://lilyobeng.github.io/Hangman/
