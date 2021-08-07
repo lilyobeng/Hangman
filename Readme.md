@@ -5,9 +5,17 @@ Screenshots
 ![Hangman](Hangman-img/Hangman.png)
 ![Hangman](Hangman-img/Hangman1.png)
 
-Technologies Used
-HTML, CSS, JavaScript
+Technologies Used:
+HTML, 
+CSS, 
+JavaScript, 
+DOM
 
 Deployment
 To deploy this project run
 https://lilyobeng.github.io/Hangman/
+
+Future enhancements:
+Mobile-friendly User Interface,
+Add more categories to my game 
+

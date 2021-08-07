@@ -1,4 +1,3 @@
-// Define Variables
 let guess = 10;
 let canvas;
 let incorrectLetter = [];
